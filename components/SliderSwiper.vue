@@ -5,7 +5,13 @@
       :pagination="{
       clickable: true,
     }"
+      :loop="true"
       :modules="modules"
+      :autoplay="{
+      delay: 2500,
+      disableOnInteraction: false,
+    }"
+
   >
     <swiper-slide>
       <div>
