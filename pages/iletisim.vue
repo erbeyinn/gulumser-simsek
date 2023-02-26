@@ -7,7 +7,7 @@
           <Whattsapp class="icon"/>
           <div class="flex flex-col w-1/2">
             <p class="font-bold">Telefon</p>
-            <a href="https://api.whatsapp.com/send?phone=5301011695"
+            <a href="https://api.whatsapp.com/send?phone=905301011695"
                class="text-sm text-[#048FCC] custom hover-underline-animation">+90 530 101 16 95</a>
           </div>
 
@@ -39,7 +39,6 @@
               <p class="font-bold">Arama</p>
               <a href="tel:+905301011695" class="text-sm hover-underline-animation">+90 530 101 16 95</a>
             </div>
-
         </div>
       </div>
     </div>
