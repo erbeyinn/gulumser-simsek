@@ -17,7 +17,7 @@
           <Mail class="icon"/>
           <div class="flex flex-col w-1/2">
             <p class="font-bold">E-mail</p>
-            <a href="mailto:av.gulumser.simsek@gmail.com" class="text-sm text-[#048FCC]  hover-underline-animation">av.gulumser.simsek@gmail.com</a>
+            <a href="mailto:av.gulumser.simsek@gmail.com" class="text-sm text-[#048FCC] text-justify hover-underline-animation"><p>av.gulumser.simsek@gmail.com</p></a>
           </div>
         </div>
       </div>
