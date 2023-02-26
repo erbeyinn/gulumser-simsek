@@ -1,5 +1,5 @@
 <template>
-  <div class="footer-container">
+  <div class="footer-container px-8">
    <p>© Copyright 2022 Av. Gülümser Şimşek</p>
   </div>
 </template>
