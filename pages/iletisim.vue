@@ -5,7 +5,7 @@
       <div class="iletisim-container-cards">
         <div class="iletisim-container-card">
           <Whattsapp class="icon"/>
-          <div class="flex flex-col">
+          <div class="flex flex-col w-1/2">
             <p class="font-bold">Telefon</p>
 
             <a href="https://api.whatsapp.com/send?phone=5301011695"
@@ -15,7 +15,7 @@
         </div>
         <div class="iletisim-container-card mt-8 sm:mt-0">
           <Mail class="icon"/>
-          <div class="flex flex-col">
+          <div class="flex flex-col w-1/2">
             <p class="font-bold">E-mail</p>
             <a href="mailto:av.gulumser.simsek@gmail.com" class="text-sm text-[#048FCC]  hover-underline-animation">av.gulumser.simsek@gmail.com</a>
           </div>
@@ -35,7 +35,7 @@
         </div>
         <div class="iletisim-container-card mt-8 sm:mt-0">
           <Phone class="icon"/>
-          <div class="flex flex-col">
+          <div class="flex flex-col w-1/2">
             <p class="font-bold">Arama</p>
             <a href="tel:+905301011695" class="text-sm hover-underline-animation">+90 530 101 16 95</a>
           </div>
